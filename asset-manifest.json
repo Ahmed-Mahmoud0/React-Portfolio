@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.38088c8d.css",
+    "main.js": "/React-Portfolio/static/js/main.bdbba149.js",
+    "static/media/Profile-removebg.png": "/React-Portfolio/static/media/Profile-removebg.6d35ce44259452243372.png",
+    "static/media/Ahmed_Resume.pdf": "/React-Portfolio/static/media/Ahmed_Resume.70bbc0739fed5d39beb0.pdf",
+    "index.html": "/React-Portfolio/index.html",
+    "main.38088c8d.css.map": "/React-Portfolio/static/css/main.38088c8d.css.map",
+    "main.bdbba149.js.map": "/React-Portfolio/static/js/main.bdbba149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38088c8d.css",
+    "static/js/main.bdbba149.js"
+  ]
+}
