@@ -1,5 +1,5 @@
 header {
-  height: 100vh;
+  height: 50rem;
   padding-top: 7rem;
   overflow: hidden;
 }
@@ -45,8 +45,8 @@ header {
   left: 50%;
   transform: translateX(-50%);
   margin-top: 4rem;
-  border-radius: 12rem 12rem 0 0;
-  padding: 1rem 1.5rem 1.5rem 1.5rem;
+  border-radius: 12rem 12rem 0rem 0rem;
+  padding: 4rem 1.5rem 1.5rem 1.5rem;
 }
 .me img {
   border-radius: 50%;
@@ -60,18 +60,6 @@ header {
   font-weight: 300;
   font-size: 0.9rem;
   transform: rotate(90deg);
-}
-
-/* ############################ MEDIA QUERIES (MEDIUM DEVICES) ############################ */
-@media screen and (max-width: 1024px) {
-  header {
-    height: 110vh;
-  }
-  .me {
-    width: 20rem;
-  }
-}
-@media screen and (max-width: 768px) {
 }
 
 /* ############################ MEDIA QUERIES (SMALL DEVICES) ############################ */
